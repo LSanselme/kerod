@@ -25,7 +25,7 @@ from typing import Callable
 import tensorflow as tf
 from tensorflow.keras import layers
 from tensorflow.python.keras import backend
-from tensorflow.python.keras.applications import resnet
+from tensorflow.keras.applications import resnet
 from tensorflow.python.keras.engine import training
 from tensorflow.python.keras.utils import data_utils, layer_utils
 
